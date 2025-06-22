@@ -9,8 +9,9 @@
 ## 📁 디렉토리 구조
 ```
 study-log-2025/
-├── Unity/              → Unity 강의 및 프로젝트
-├── Algorithm/          → 알고리즘 문제 풀이
+├── algorithm/          → 알고리즘 문제 풀이
+├── logs/               → Unity+알고리즘 통합 기록
+├── unity/              → Unity 공부 및 프로젝트
 └── weekly-summary/     → 주간 학습 정리
 ```
 
