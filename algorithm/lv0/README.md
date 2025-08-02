@@ -6,4 +6,7 @@
 | 2025-08-01 | n보다 커질 때까지 더하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [풀이](./250801_181884.py) |
 | 2025-08-01 | 5명씩 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [풀이](./250801_181886.py) |
 | 2025-08-01 | 순서 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이](./250801_181891.py) |
+| 2025-08-02 | 카운트 다운 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이](./250802_181899.py) |
+| 2025-08-02 | 배열 만들기 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이](./250802_181901.py) |
+| 2025-08-02 | 접두사인지 확인하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이](./250802_181906.py) |
 
