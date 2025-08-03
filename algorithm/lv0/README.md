@@ -8,4 +8,6 @@
 | 2025-08-01 | 순서 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이](./250801_181891.py) |
 | 2025-08-02 | 카운트 다운 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이](./250802_181899.py) |
 | 2025-08-02 | 배열 만들기 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이](./250802_181901.py) |
-
+| 2025-08-03 | 접두사인지 확인하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이](./250803_181906.py) |
+| 2025-08-03 | 접미사 배열 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이](./250803_181909.py) |
+| 2025-08-03 | 부분 문자열 이어 붙여 문자열 만들기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이](./250803_181911.py) |
