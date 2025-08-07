@@ -14,3 +14,6 @@
 | 2025-08-06 | 글자 이어 붙여 문자열 만들기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [풀이](./250806_181915.py) |
 | 2025-08-06 | 콜라츠 수열 만들기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이](./250806_181919.py) |
 | 2025-08-06 | 수 조작하기2 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이](./250806_181925.py) |
+| 2025-08-07 | 공배수 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이](./250807_181936.py) |
+| 2025-08-07 | 원소들의 곱과 합 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이](./250807_181929.py) |
+| 2025-08-07 | 수 조작하기1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이](./250807_181926.py) |

@@ -1,4 +1,4 @@
-# 부분 문자열 이어 붙여 문자열 만들기
+# 콜라츠 수열 만들기
 def solution(n):
     answer = [n]
     while n > 1:

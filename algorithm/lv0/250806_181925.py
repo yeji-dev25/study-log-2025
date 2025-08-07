@@ -1,4 +1,4 @@
-# 부분 문자열 이어 붙여 문자열 만들기
+# 수 조작하기2
 def solution(numLog):
     answer = ""
     for i in range(len(numLog)-1):
