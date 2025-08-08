@@ -1,13 +1,13 @@
 # 원소들의 곱과 합
 def solution(num_list):
     answer = 0
-    sum = 0
+    total = 0
     mul = 1
     
     for i in num_list:
-        sum += i
+        total += i
         mul *= i
     
-    if mul < sum*sum: answer = 1
+    if mul < total*total: answer = 1
     
     return answer

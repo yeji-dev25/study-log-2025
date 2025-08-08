@@ -17,3 +17,6 @@
 | 2025-08-07 | 공배수 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이](./250807_181936.py) |
 | 2025-08-07 | 원소들의 곱과 합 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이](./250807_181929.py) |
 | 2025-08-07 | 수 조작하기1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이](./250807_181926.py) |
+| 2025-08-08 | 마지막 두 원소 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이](./250808_181927.py) |
+| 2025-08-08 | 주사위 게임2 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이](./250808_181930.py) |
+| 2025-08-08 | 문자열 돌리기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [풀이](./250808_181945.py) |
