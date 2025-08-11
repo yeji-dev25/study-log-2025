@@ -20,3 +20,10 @@
 | 2025-08-08 | 마지막 두 원소 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이](./250808_181927.py) |
 | 2025-08-08 | 주사위 게임2 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이](./250808_181930.py) |
 | 2025-08-08 | 문자열 돌리기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [풀이](./250808_181945.py) |
+| 2025-08-11 | 문자열 곱하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이](./250811_181940.py) |
+| 2025-08-11 | 홀짝 구분하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | [풀이](./250811_181944.py) |
+| 2025-08-11 | 문자 리스트를 문자열로 변환하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이](./250811_181941.py) |
+| 2025-08-11 | 덧셈식 출력하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [풀이](./250811_181947.py) |
+| 2025-08-11 | A 강조하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [풀이](./250811_181874.py) |
+| 2025-08-11 | 특정한 문자를 대문자로 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이](./250811_181873.py) |
+| 2025-08-11 | 조건에 맞게 수열 변환하기 3 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [풀이](./250811_181835.py) |
