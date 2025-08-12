@@ -27,3 +27,7 @@
 | 2025-08-11 | A 강조하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [풀이](./250811_181874.py) |
 | 2025-08-11 | 특정한 문자를 대문자로 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이](./250811_181873.py) |
 | 2025-08-11 | 조건에 맞게 수열 변환하기 3 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181835) | [풀이](./250811_181835.py) |
+| 2025-08-12 | ㅣ로 만들기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181834) | [풀이](./250812_181834.py) |
+| 2025-08-12 | 정수 부분 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이](./250812_181850.py) |
+| 2025-08-12 | n의 배수 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이](./250812_181937.py) |
+| 2025-08-12 | 문자열 바꿔서 찾기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [풀이](./250812_181864.py) |
