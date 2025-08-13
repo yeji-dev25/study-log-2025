@@ -31,3 +31,8 @@
 | 2025-08-12 | 정수 부분 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이](./250812_181850.py) |
 | 2025-08-12 | n의 배수 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이](./250812_181937.py) |
 | 2025-08-12 | 문자열 바꿔서 찾기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [풀이](./250812_181864.py) |
+| 2025-08-13 | flag에 따라 다른 값 반환하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이](./250813_181933.py) |
+| 2025-08-13 | 정수 찾기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | [풀이](./250813_181840.py) |
+| 2025-08-13 | 대문자로 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [풀이](./250813_181877.py) |
+| 2025-08-13 | 배열의 원소 삭제하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [풀이](./250813_181844.py) |
+| 2025-08-13 | 꼬리 문자열 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [풀이](./250813_181841.py) |
