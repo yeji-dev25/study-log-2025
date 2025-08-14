@@ -1,7 +1,7 @@
 # Programmers Lv0 문제 풀이
 
 | 번호 | 날짜 | 문제명 | 링크 | 코드 |
-|------|--------|------|------|
+|----|------|--------|------|------|
 | 1 | 2025-07-31 | 조건에 맞게 수열 변환하기 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [풀이](./250731_181882.py) |
 | 2 | 2025-08-01 | n보다 커질 때까지 더하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [풀이](./250801_181884.py) |
 | 3 | 2025-08-01 | 5명씩 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [풀이](./250801_181886.py) |
@@ -36,3 +36,6 @@
 | 32 | 2025-08-13 | 대문자로 바꾸기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [풀이](./250813_181877.py) |
 | 33 | 2025-08-13 | 배열의 원소 삭제하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [풀이](./250813_181844.py) |
 | 34 | 2025-08-13 | 꼬리 문자열 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [풀이](./250813_181841.py) |
+| 35 | 2025-08-14 | 문자열 붙어서 출력하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이](./250814_181946.py) |
+| 36 | 2025-08-14 | 0 떼기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [풀이](./250814_181847.py) |
+| 37 | 2025-08-14 | n개 간격의 원소들 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [풀이](./250814_181888.py) |
