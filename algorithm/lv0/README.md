@@ -39,6 +39,9 @@
 | 35 | 2025-08-14 | 문자열 붙어서 출력하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이](./250814_181946.py) |
 | 36 | 2025-08-14 | 0 떼기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [풀이](./250814_181847.py) |
 | 37 | 2025-08-14 | n개 간격의 원소들 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [풀이](./250814_181888.py) |
-| 38 | 2025-08-14 | 부분 문자열 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [풀이](./250815_181842.py) |
-| 39 | 2025-08-14 | 특별한 이차원 배열 2 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [풀이](./250815_181831.py) |
-| 40 | 2025-08-14 | 특별한 이차원 배열 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [풀이](./250815_181833.py) |
+| 38 | 2025-08-15 | 부분 문자열 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [풀이](./250815_181842.py) |
+| 39 | 2025-08-15 | 특별한 이차원 배열 2 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [풀이](./250815_181831.py) |
+| 40 | 2025-08-15 | 특별한 이차원 배열 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181833) | [풀이](./250815_181833.py) |
+| 41 | 2025-08-26 | 부분 문자열인지 확인하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [풀이](./250826_181843.py) |
+| 42 | 2025-08-26 | 문자열로 변환 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [풀이](./250826_181845.py) |
+| 43 | 2025-08-26 | 뒤에서 5등 위로 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이](./250826_181852.py) |
