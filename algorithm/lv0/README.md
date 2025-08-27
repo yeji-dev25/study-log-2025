@@ -45,3 +45,8 @@
 | 41 | 2025-08-26 | 부분 문자열인지 확인하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [풀이](./250826_181843.py) |
 | 42 | 2025-08-26 | 문자열로 변환 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [풀이](./250826_181845.py) |
 | 43 | 2025-08-26 | 뒤에서 5등 위로 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이](./250826_181852.py) |
+| 44 | 2025-08-27 | 문자열 정수의 합 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이](./250827_181849.py) |
+| 45 | 2025-08-27 | 문자열을 정수로 변환하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | [풀이](./250827_181848.py) |
+| 46 | 2025-08-27 | 뒤에서 5등까지 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이](./250827_181853.py) |
+| 47 | 2025-08-27 | 배열의 길이에 따라 다른 연산하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이](./250827_181854.py) |
+| 48 | 2025-08-27 | 배열 비교하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이](./250827_181856.py) |
