@@ -50,3 +50,6 @@
 | 46 | 2025-08-27 | 뒤에서 5등까지 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이](./250827_181853.py) |
 | 47 | 2025-08-27 | 배열의 길이에 따라 다른 연산하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이](./250827_181854.py) |
 | 48 | 2025-08-27 | 배열 비교하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이](./250827_181856.py) |
+| 49 | 2025-08-30 | 홀짝에 따라 다른 값 반환하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./250830_181935.py) |
+| 50 | 2025-08-30 | 주사위 게임 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [풀이](./250830_181839.py) |
+| 51 | 2025-08-30 | ad 제거하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이](./250830_181870.py) |
