@@ -53,3 +53,5 @@
 | 49 | 2025-08-30 | 홀짝에 따라 다른 값 반환하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이](./250830_181935.py) |
 | 50 | 2025-08-30 | 주사위 게임 1 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [풀이](./250830_181839.py) |
 | 51 | 2025-08-30 | ad 제거하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이](./250830_181870.py) |
+| 52 | 2025-08-31 | 배열의 원소만큼 추가하기 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이](./250831_181861.py) |
+| 53 | 2025-08-31 | x 사이의 개수 | [문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [풀이](./250831_181867.py) |
